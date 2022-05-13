@@ -1,0 +1,9 @@
+{
+   "include": ["test/**/*"],
+   "compilerOptions": {
+      "outDir": "dist",
+      "noUnusedParameters": true,
+      "strict": true,
+      "esModuleInterop": true
+   }
+}
